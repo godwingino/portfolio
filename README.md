@@ -1,7 +1,19 @@
 
-# Project Title
+# Portfolio Website [v1]
 
-A brief description of what this project does and who it's for
+This portfolio website showcases the work of a student web developer. The website includes a variety of projects that the student has worked on, from simple personal websites to more complex web applications. The projects are all well-designed and functional, and they demonstrate the student's skills in web development.
+
+The website is also well-organized and easy to navigate. The projects are grouped by category. The website also includes a contact form, so visitors can get in touch with the student if they have any questions or would like to hire them for a project.
+
+Overall, this is a great portfolio website for a student web developer. It showcases the student's skills and work ethic, and it makes a great first impression on potential employers.
+
+Here are some of the features of the portfolio website:
+
+> Well-designed and functional projects
+> Variety of projects to showcase skills
+> Easy to navigate
+> Contact form for potential employers
+If you are a student web developer, I encourage you to create a portfolio website like this one. It is a great way to showcase your work and get your foot in the door of the web development industry.
 
 ## Demo
 
