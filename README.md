@@ -9,10 +9,10 @@ Overall, this is a great portfolio website for a student web developer. It showc
 
 Here are some of the features of the portfolio website:
 
-> Well-designed and functional projects
-> Variety of projects to showcase skills
-> Easy to navigate
-> Contact form for potential employers
+Well-designed and functional projects <br>
+Variety of projects to showcase skills <br>
+Easy to navigate <br>
+Contact form for potential employers <br>
 If you are a student web developer, I encourage you to create a portfolio website like this one. It is a great way to showcase your work and get your foot in the door of the web development industry.
 
 ## Demo
