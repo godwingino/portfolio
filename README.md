@@ -17,7 +17,7 @@ Here are some of the features of the portfolio website:
 
 ## Demo
 
-www.godwingino.ml
+https://godwingino.github.io/portfolio/
 
 
 ## Screenshots
